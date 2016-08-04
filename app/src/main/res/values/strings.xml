@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dice</string>
+
+    <!-- UI Related -->
+    <string name="ui_dice_photo_description">Dice</string>
+
+    <string name="ui_dice_color_title">Dice color: </string>
+    <string name="ui_dice_color_red">Red</string>
+    <string name="ui_dice_color_white">White</string>
+
+    <string name="ui_result_title">Result: </string>
+
+    <!-- Dice value -->
+    <string name="dice_one_title">One</string>
+    <string name="dice_two_title">Two</string>
+    <string name="dice_three_title">Three</string>
+    <string name="dice_four_title">Four</string>
+    <string name="dice_five_title">Five</string>
+    <string name="dice_six_title">Six</string>
+
+    <string name="dice_zero_value">0</string>
+
+    <!-- action setting -->
+    <string name="action_reset">Reset</string>
+</resources>
