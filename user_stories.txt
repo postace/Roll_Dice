@@ -1,0 +1,12 @@
+Roll Dice app:
+
+Display a die somewhere on your screen. When the user taps on the die, it should randomly
+switch to another number.
+Keep count of the number of times each number is rolled. Somewhere on the screen, display
+how many times each face has been rolled.
+Include a button that resets the counts for how many times each face has been rolled.
+
+Extra Credit
+  • Include a Switch that changes the color of your die between red and white.
+  • Sound effects.
+  • Animations
